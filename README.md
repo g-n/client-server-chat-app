@@ -1,1 +1,2 @@
-# client-server-chat-app
+# Java Client Server Chat
+Multi-threaded client server chat program written in Java featuring Swing GUI with userlist.
